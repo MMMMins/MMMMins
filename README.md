@@ -1,12 +1,14 @@
 <div align="center">
 	
   ![logo](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=120&section=header&fontSize=40&desc=Min&rotate=7&text=Hello&fontAlign=70&fontAlignY=20&descAlign=80&descAlignY=45)
-
 <br>
+
   <a href="https://github.com/mmmmins">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMMMMins&count_bg=%23213B0D&title_bg=%23764343&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
   
+  ---
+
   ### 🌏Language🌏 ###
   ![C언어](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
   ![C#](https://img.shields.io/badge/C_Sharp-239120?style=flat&logo=csharp&logoColor=white)
@@ -42,8 +44,10 @@
 
   ### ⚙Etc⚙ ###
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-	![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 	![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
- 
+
+ ---
+
   ![common](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmins&layout=compact)
 </div>
