@@ -44,5 +44,6 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">&nbsp <!-- Docker -->
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">&nbsp <!-- AWS -->
   </div>
+<br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmins&layout=compact"/>
 </div>
