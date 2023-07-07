@@ -1,8 +1,9 @@
 <div align="center" >
 
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=80&section=header&text=Hello!%20Min&fontSize=40">
+  <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=120&section=header&fontSize=40&desc=Min&rotate=7&text=Hello&fontAlign=70&fontAlignY=20&descAlign=80&descAlignY=45">
   <br>
   <a href="https://github.com/mmmmins"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMMMMins&count_bg=%23213B0D&title_bg=%23764343&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
   <br>
     <div>
     <span>🌏Language🌏</span><br>
@@ -43,7 +44,5 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">&nbsp <!-- Docker -->
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">&nbsp <!-- AWS -->
   </div>
-  <div>
-    asdasdsa
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmins&layout=compact"/>
 </div>
