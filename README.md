@@ -44,10 +44,3 @@
 
 - 인하공업전문대학 컴퓨터정보공학과 학사
 - 인하공업전문대학 컴퓨터정보과 전문학사
-
----
-
-## Contact
-
-- GitHub: [github.com/mmmmins](https://github.com/mmmmins)
-- Email: tommp1055@gmail.com
