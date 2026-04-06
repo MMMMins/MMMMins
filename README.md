@@ -25,21 +25,6 @@
 > 동일한 비즈니스 로직에 대해 기본 구현(baseline)과 최적화 구현을 나란히 실행하고,
 > 통계 검정(Mann-Whitney U, Cohen's d)으로 개선 효과의 유의성을 판별하는 벤치마킹 테스트
 
-**6가지 실험 결과 요약:**
-
-| 실험 | 최적화 기법 | 개선율 (p50) |
-|---|---|---|
-| Bulk Insert | 단건 루프 → 배치 삽입 | **+89.5%** |
-| N+1 Loading | 지연 로딩 → joinedload/selectinload | **+84.1%** |
-| Pagination | OFFSET → Keyset(Cursor) | **+91.7%** |
-| Complex Search | LIKE → FULLTEXT + 복합 인덱스 | **-85.3%** |
-| Aggregation | 풀 스캔 → 인덱스 필터 GROUP BY | **-21.3%** |
-| Concurrency | 잠금 없음 → 낙관적/비관적 잠금 | 무결성 6% → 100% |
-
-3가지는 확실한 개선, 2가지는 오히려 역효과 &mdash; **"최적화가 항상 빠른 것은 아니다"**는 결론을 데이터로 증명합니다.
-
-`Python` `FastAPI` `SQLAlchemy` `MySQL` `React` `Docker` `k6`
-
 ---
 
 ## Experience
