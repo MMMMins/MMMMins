@@ -1,61 +1,68 @@
-<div align="center">
-	
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,25,30&height=200&section=header&text=Min&render&fontSize=40&fontAlignY=35&fontAlign=80&desc=Welcome%20To%20My%20GitHub&descAlign=81&descAlignY=55)
-<br>
+## About Me
 
-</div>
-<!--
-  <a href="https://github.com/mmmmins">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMMMMins&count_bg=%23213B0D&title_bg=%23764343&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-  -->
-  
-  ---
-  
-<div align="left" style="backgroundcolor:white">
+백엔드 중심으로 개발하는 풀스택 개발자입니다.
+기획, 설계, 개발, 개선까지 전체 흐름을 이해하며 일하는 것을 중요하게 생각합니다.
 
-  ### Language ###
-  ![C언어](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-  ![C#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)<!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white) -->
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-  
-  ### BackEnd ###
- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
- ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
- ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+기술을 단순히 적용하는 것보다,
+실제 사용자와 운영 환경에서 발생하는 문제를 파악하고
+서비스에 맞는 방식으로 해결하는 데 더 큰 가치를 둡니다.
 
-  ### FrontEnd ###
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-  ![BootStrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  ![TailWindCss](https://img.shields.io/badge/TailWindCss-06B6D4?style=for-the-badge&logo=TailWindCss&logoColor=white)
+---
 
-  ### Database ###
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-  ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/Mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
- 
-  ### Tools ###
-  
-  ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-  ![Jetbrains](https://img.shields.io/badge/Jetbrains-000000?style=for-the-badge&logo=Jetbrains&logoColor=white")
+## Strengths
 
+- 문제를 발견하면 원인을 끝까지 추적하며 해결하는 편입니다.
+- 성능 이슈나 반복 업무를 구조적으로 개선하는 데 흥미가 많습니다.
+- 실무 담당자와 직접 소통하며 요구사항과 실제 업무 흐름을 이해하려고 합니다.
+- 익숙한 기술에 머무르지 않고, 더 나은 방식이 있으면 계속 탐색합니다.
 
-  ### Etc ###
-  ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+---
 
-  <!-- ![common](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmins&layout=compact) -->
-</div>
+## Projects
+
+### [QueryLab](https://github.com/mmmmins/querylab) - ORM 쿼리 최적화 실험 플랫폼
+
+> 동일한 비즈니스 로직에 대해 기본 구현(baseline)과 최적화 구현을 나란히 실행하고,
+> 통계 검정(Mann-Whitney U, Cohen's d)으로 개선 효과의 유의성을 판별하는 벤치마킹 테스트
+
+**6가지 실험 결과 요약:**
+
+| 실험 | 최적화 기법 | 개선율 (p50) |
+|---|---|---|
+| Bulk Insert | 단건 루프 → 배치 삽입 | **+89.5%** |
+| N+1 Loading | 지연 로딩 → joinedload/selectinload | **+84.1%** |
+| Pagination | OFFSET → Keyset(Cursor) | **+91.7%** |
+| Complex Search | LIKE → FULLTEXT + 복합 인덱스 | **-85.3%** |
+| Aggregation | 풀 스캔 → 인덱스 필터 GROUP BY | **-21.3%** |
+| Concurrency | 잠금 없음 → 낙관적/비관적 잠금 | 무결성 6% → 100% |
+
+3가지는 확실한 개선, 2가지는 오히려 역효과 &mdash; **"최적화가 항상 빠른 것은 아니다"**는 결론을 데이터로 증명합니다.
+
+`Python` `FastAPI` `SQLAlchemy` `MySQL` `React` `Docker` `k6`
+
+---
+
+## Experience
+
+**Backend-focused Fullstack Developer**
+`2023.08 - Present`
+
+- 백엔드 개발을 중심으로 서비스 기능 개선 및 운영 이슈 대응
+- 기획, 설계, 개발 전반에 참여
+- React, Vue, Flutter 개발 등 다양한 부분 참여
+- 실무 담당자와 협업하며 요구사항을 정리하고 서비스에 반영
+- 성능 개선, 업무 효율화, 운영 안정성 향상에 집중
+
+---
+
+## Education
+
+- 인하공업전문대학 컴퓨터정보공학과 학사
+- 인하공업전문대학 컴퓨터정보과 전문학사
+
+---
+
+## Contact
+
+- GitHub: [github.com/mmmmins](https://github.com/mmmmins)
+- Email: tommp1055@gmail.com
