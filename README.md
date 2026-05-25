@@ -25,6 +25,11 @@
 > 동일한 비즈니스 로직에 대해 기본 구현(baseline)과 최적화 구현을 나란히 실행하고,
 > 통계 검정(Mann-Whitney U, Cohen's d)으로 개선 효과의 유의성을 판별하는 벤치마킹 테스트
 
+### [MCP Server Example](https://github.com/MMMMins/MCP_Example) - 쇼핑몰 조회 MCP + Strands Agents 서버
+
+> 쇼핑몰 도메인의 상품, 주문, 리뷰, 매출 데이터를 MCP tools로 조회할 수 있도록 구성한 MCP + Strands Agents 서버
+> 자연어 처리와 MCP에 Tool 로드용 Strands Agents를 이용한 예제
+
 ---
 
 ## Experience
